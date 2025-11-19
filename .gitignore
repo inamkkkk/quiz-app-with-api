@@ -1,0 +1,13 @@
+### Flutter ###
+*.iml
+.idea/
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugin-dependencies
+android/app/build/
+ios/Flutter/App.framework
+ios/Flutter/Flutter.podspec
+web/build/
+build/
+.DS_Store
